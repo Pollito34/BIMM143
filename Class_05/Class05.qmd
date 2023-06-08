@@ -1,7 +1,7 @@
 ---
 title: "Class 5: Data Visualization"
 author: "Angela Bartolo (PID: A15932451)"
-format: pdf
+format: gfm
 ---
 
 #Base R graphics vs ggplot2
